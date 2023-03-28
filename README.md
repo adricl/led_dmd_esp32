@@ -1,1 +1,1 @@
-# led_dmd_esp32
+# Freetronics LED pannel displaying MQTT messages via an ESP32.
