@@ -40,7 +40,7 @@
 // run counter to increment every 1 microseconds
 #define ESP32_TIMER0_PRESCALER 80 //80
 // call scan_running_dmds every 250 microseconds on ESP32
-#define ESP32_TIMER0_RELOAD_ON 250
+#define ESP32_TIMER0_RELOAD_ON 500
 
 #ifdef NO_TIMERS
 
